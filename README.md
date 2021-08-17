@@ -33,12 +33,20 @@ Dataset for COVID-19 used in KDD'21 can be accessed here:
 
 ## Please cite the following work.
 ```
-@inproceedings{,
+@inproceedings{10.1145/3447548.3467391,
 author = {Sharma, Karishma and Zhang, Yizhou and Ferrara, Emilio and Liu, Yan},
 title = {Identifying Coordinated Accounts on Social Media through Hidden Influence and Group Behaviours},
 year = {2021},
+isbn = {9781450383325},
 publisher = {Association for Computing Machinery},
-booktitle = {Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining},
-series = {KDD'21}
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3447548.3467391},
+doi = {10.1145/3447548.3467391},
+booktitle = {Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining},
+pages = {1441–1451},
+numpages = {11},
+keywords = {coordinated influence campaigns, social media, temporal point process, disinformation, fake news},
+location = {Virtual Event, Singapore},
+series = {KDD '21}
 }
 ```
